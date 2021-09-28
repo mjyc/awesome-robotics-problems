@@ -15,6 +15,10 @@ A curated list of robotics algorithms implementations I've directly or indirectl
 - [PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking](https://github.com/NVlabs/PoseRBPF)
 - [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://rse-lab.cs.washington.edu/projects/posecnn/)
 
+### Grasping
+
+- [Berkeley AUTOLAB's Dex-Net Package](https://github.com/BerkeleyAutomation/dex-net)
+
 ## Related Lists
 
 - [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam)
