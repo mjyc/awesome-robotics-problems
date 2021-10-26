@@ -19,8 +19,14 @@ A curated list of robotics algorithms implementations I've directly or indirectl
 
 - [Berkeley AUTOLAB's Dex-Net Package](https://github.com/BerkeleyAutomation/dex-net)
 
+### Motion Planning and Control
+
+- [The MoveIt Motion Planning Framework for ROS 2](https://github.com/ros-planning/moveit2)
+- [ros2_control](https://github.com/ros-controls/ros2_control)
+
 ## Related Lists
 
+- [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
 - [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam)
 - [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
 - [tzutalin/awesome-visual-slamslam](https://github.com/tzutalin/awesome-visual-slam)
