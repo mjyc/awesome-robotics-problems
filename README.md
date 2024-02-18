@@ -1,36 +1,59 @@
-# robotics-algorithm-repos
-A curated list of robotics algorithms implementations I've directly or indirectly worked with before.
+# Awesome Robotics Problems
 
-## Perception
+and Algorithms
 
-### SLAM
+## Homeworks
 
-- [Cartographer ROS Integration](https://google-cartographer-ros.readthedocs.io/en/latest/)
-- [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
-- [On-SE(2) Localization and Mapping for Ground Vehicles by Fusing Odometry and Vision](https://github.com/izhengfan/se2clam)
+from university courses
 
-### Pose Detection
+- https://github.com/pjreddie/dubnet
+- https://courses.cs.washington.edu/courses/cse571/23sp/homeworks
+- https://gitlab.cs.washington.edu/cse-478wi
 
-- [Deep Object Pose Estimation - ROS Inference](https://github.com/NVlabs/Deep_Object_Pose)
-- [PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking](https://github.com/NVlabs/PoseRBPF)
-- [PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes](https://rse-lab.cs.washington.edu/projects/posecnn/)
+## Datasets
 
-### Grasping
+that can be used as test cases
 
-- [Berkeley AUTOLAB's Dex-Net Package](https://github.com/BerkeleyAutomation/dex-net)
+- http://ais.informatik.uni-freiburg.de/slamevaluation
+- https://www.movingai.com/benchmarks
 
-### Motion Planning and Control
 
-- [The MoveIt Motion Planning Framework for ROS 2](https://github.com/ros-planning/moveit2)
-- [ros2_control](https://github.com/ros-controls/ros2_control)
 
-## Related Lists
+## Robotics Algorithms Repos
 
-- [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
-- [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam)
-- [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
-- [tzutalin/awesome-visual-slamslam](https://github.com/tzutalin/awesome-visual-slam)
-- [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
-- [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
-- [electech6/awesome-RGBD-SLAM](https://github.com/electech6/awesome-RGBD-SLAM)
-- [binbin-xu/awesome-dynamic-slam](https://github.com/binbin-xu/awesome-dynamic-slam)
+- https://github.com/AtsushiSakai/PythonRobotics
+- https://github.com/giacomo-b/CppRobotics
+- https://github.com/mjyc/CppRoboticsBenchmark
+- https://github.com/ompl/ompl
+- https://github.com/rushter/MLAlgorithms
+
+### Industrial Robots
+
+- https://github.com/ros-controls/ros2_controllers
+- https://github.com/ros-planning/moveit2/tree/main/moveit_planners
+
+### Autonomous Vehicles
+
+- https://github.com/ApolloAuto/apollo
+- https://github.com/autowarefoundation/autoware.universe
+
+### CV \& ML Algorithms
+
+- https://github.com/cartographer-project/cartographer
+- https://github.com/ceres-solver/ceres-solver
+- https://github.com/facebookresearch/theseus
+- https://github.com/openMVG/openMVG/
+- https://github.com/rushter/MLAlgorithms
+
+
+## Related Awesome Lists
+
+- https://github.com/mint-lab/awesome-robotics-datasets
+- https://github.com/OpenSLAM/awesome-SLAM-list
+- https://github.com/tzutalin/awesome-visual-slam
+- https://github.com/youngguncho/awesome-slam-datasets
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
