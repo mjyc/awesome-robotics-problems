@@ -6,8 +6,8 @@ and Algorithms
 
 from university courses
 
-- https://github.com/pjreddie/dubnet
 - https://courses.cs.washington.edu/courses/cse571/23sp/homeworks
+- https://github.com/pjreddie/dubnet
 - https://gitlab.cs.washington.edu/cse-478wi
 
 ## Datasets
@@ -17,11 +17,13 @@ that can be used as test cases
 - http://ais.informatik.uni-freiburg.de/slamevaluation
 - https://www.movingai.com/benchmarks
 
-## Competitions
+## Competitions & Challenges
 
-- https://leaderboard.carla.org/get_started/
-- https://github.com/f1tenth/f1tenth_gym
+- https://github.com/commaai/calib_challenge
+- https://github.com/commaai/commavq?tab=readme-ov-file#2x1000-challenges
 - https://github.com/duckietown/gym-duckietown
+- https://github.com/f1tenth/f1tenth_gym
+- https://leaderboard.carla.org/get_started/
 
 ## Robotics Algorithms Repos
 
