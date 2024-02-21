@@ -17,7 +17,11 @@ that can be used as test cases
 - http://ais.informatik.uni-freiburg.de/slamevaluation
 - https://www.movingai.com/benchmarks
 
+## Competitions
 
+- https://leaderboard.carla.org/get_started/
+- https://github.com/f1tenth/f1tenth_gym
+- https://github.com/duckietown/gym-duckietown
 
 ## Robotics Algorithms Repos
 
